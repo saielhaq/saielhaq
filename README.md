@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saielhaq&label=Profile%20views&color=0e75b6&style=flat" alt="saielhaq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saielhaq" target="blank"><img src="https://img.shields.io/twitter/follow/saielhaq?logo=twitter&style=for-the-badge" alt="saielhaq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saielhaq" target="_blank"><img src="https://img.shields.io/twitter/follow/saielhaq?logo=twitter&style=for-the-badge" alt="saielhaq" /></a> </p>
 
 - 🔭 I’m currently working on **a Spotify Clone Web App**
 
