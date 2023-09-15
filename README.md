@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://saielhaqs.netlify.app](https://saielhaqs.netlify.app)
 
-- 📝 I regularly write articles on [https://threads.net/saielhaqs](https://threads.net/saielhaqs)
-
 - 📫 How to reach me **saielhaqs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
