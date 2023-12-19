@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saielhaq" target="_blank"><img src="https://img.shields.io/twitter/follow/saielhaq?logo=twitter&style=for-the-badge" alt="saielhaq" /></a> </p>
 
-- 🔭 I’m currently working on **a Spotify Clone Web App**
+- 🔭 I’m currently working on a **Learning Management System**
 
 - 🌱 I’m currently learning **MERN Stack**
 
