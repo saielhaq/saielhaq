@@ -9,9 +9,9 @@ Fullstack Developer
 I'm a 19-year-old computer science student who loves coding and gaming. Whether I'm immersed in complex code or exploring virtual worlds, I find joy in the perfect blend of technology and entertainment. It's a dynamic balance that keeps me excited about the endless possibilities in both realms.
 
 * 🌍  I'm based in Casablanca, Morocco
-* 🖥️  See my portfolio at [saielhaqs.netlify.app](http://saielhaqs.netlify.app)
+* 🖥️  See my portfolio [here!](https://saielhaqs.vercel.app)
 * ✉️  You can contact me at [saielhaqs@gmail.com](mailto:saielhaqs@gmail.com)
-* 🚀  I'm currently working on [Learning management system](http://lmsaad.vercel.app)
+* 🚀  I'm currently working on [Learning management system](https://github.com/saielhaq/PFE-BTS)
 * 🧠  I'm learning NextJS, MongoDB and SQLServer
 * ⚡  Not a coincidence if nobody saw Batman and I in the same room
 
