@@ -12,7 +12,7 @@ I'm a 19-year-old computer science student who loves coding and gaming. Whether 
 * 🖥️  See my portfolio [here!](https://saielhaqs.vercel.app)
 * ✉️  You can contact me at [saielhaqs@gmail.com](mailto:saielhaqs@gmail.com)
 * 🚀  I'm currently working on [Learning management system](https://github.com/saielhaq/PFE-BTS)
-* 🧠  I'm learning NextJS, MongoDB and SQLServer
+* 🧠  I'm learning VueJS
 * ⚡  Not a coincidence if nobody saw Batman and I in the same room
 
 ### Skills
