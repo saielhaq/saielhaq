@@ -1,18 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saad Sai El Haq
+Hi! My name is Saad Sai El Haq
 =======================================================================================================================================
 
-Application Architect | Java & Web Technologies
+Application Architect (currently intern) | Java & Web Technologies | IBM
 --------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saielhaq&label=Profile%20views&color=0e75b6&style=flat" alt="saielhaq" /> </p>
 
-I'm a 19-year-old computer science student who loves coding and gaming. Whether I'm immersed in complex code or exploring virtual worlds, I find joy in the perfect blend of technology and entertainment. It's a dynamic balance that keeps me excited about the endless possibilities in both realms.
+I'm a 19-year-old computer science intern who loves coding and gaming. Whether I'm immersed in code or exploring virtual worlds, I find joy in the perfect blend of technology and entertainment. It's a dynamic balance that keeps me excited about the endless possibilities in both realms.
 
 * 🌍  I'm based in Casablanca, Morocco
 * 🖥️  See my portfolio [here!](https://saielhaqs.vercel.app)
 * ✉️  You can contact me at [saielhaqs@gmail.com](mailto:saielhaqs@gmail.com)
-* 🚀  I'm currently working on [Learning management system](https://github.com/saielhaq/PFE-BTS)
-* 🧠  I'm learning VueJS
+* 🚀  I'm currently working on a [Spring boot API](https://github.com/saielhaq/springboot-api)
+* 🧠  I'm learning Spring boot
 * ⚡  Not a coincidence if nobody saw Batman and I in the same room
 
 ### Skills
