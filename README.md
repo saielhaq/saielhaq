@@ -1,7 +1,7 @@
 Hi! My name is Saad Sai El Haq
 =======================================================================================================================================
 
-Application Architect (currently intern) | Java & Web Technologies | IBM
+Application Architect (intern) | Java & Web Technologies | IBM
 --------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saielhaq&label=Profile%20views&color=0e75b6&style=flat" alt="saielhaq" /> </p>
@@ -11,7 +11,7 @@ I'm a 19-year-old computer science intern who loves coding and gaming. Whether I
 * 🌍  I'm based in Casablanca, Morocco
 * 🖥️  See my portfolio [here!](https://saielhaqs.vercel.app)
 * ✉️  You can contact me at [saielhaqs@gmail.com](mailto:saielhaqs@gmail.com)
-* 🚀  I'm currently working on a [Spring boot API](https://github.com/saielhaq/springboot-api)
+* 🚀  I'm currently working on a [Blood Donation Center Management System](https://github.com/saielhaq/bloodchain)
 * 🧠  I'm learning Spring boot
 * ⚡  Not a coincidence if nobody saw Batman and I in the same room
 
