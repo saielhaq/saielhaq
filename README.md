@@ -12,7 +12,7 @@ I'm a 19-year-old computer science intern who loves coding and gaming. Whether I
 * 🖥️  See my portfolio [here!](https://saielhaqs.vercel.app)
 * ✉️  You can contact me at [saielhaqs@gmail.com](mailto:saielhaqs@gmail.com)
 * 🚀  I'm currently working on a [Blood Donation Center Management System](https://github.com/saielhaq/bloodchain)
-* 🧠  I'm learning Spring boot
+* 🧠  I'm learning Angular and Spring boot
 * ⚡  Not a coincidence if nobody saw Batman and I in the same room
 
 ### Skills
