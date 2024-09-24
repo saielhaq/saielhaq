@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Saad</h1>
 <h3 align="center">Application Architect (intern) | Java & Web Technologies | IBM</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=saielhaq&icon=0&color=8)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on a Blood Donation Centers Management System<br>🌱 I’m currently learning VueJS<br>💬 Ask me about Angular, Spring Boot and Python<br>⚡ Not a coincidence if nobody saw Batman and I in the same room
 
@@ -18,10 +21,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saielhaq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=saielhaq&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
