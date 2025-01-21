@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Saad</h1>
-<h3 align="center">Application Architect (intern) | Java & Web Technologies | IBM</h3>
+<h3 align="center">Fullstack Developer | Java & Web Technologies</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saielhaq&icon=0&color=8)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on a Blood Donation Centers Management System<br>🌱 I’m currently learning VueJS<br>💬 Ask me about Angular, Spring Boot and Python<br>⚡ Not a coincidence if nobody saw Batman and I in the same room
+🔭 I’m currently working on a Blood Donation Centers Management System<br>🌱 I’m currently learning Cybersecurity<br>💬 Ask me about Angular, Spring Boot and Python<br>⚡ Not a coincidence if nobody saw Batman and I in the same room
 
 
 ## 🌐 Socials:
